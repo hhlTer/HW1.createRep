@@ -1,4 +1,4 @@
-sysout("Hello world");
-sysout("One more string");
+sysout("Hello world");+++
+sysout("One more string");+++
 
-sout("And one more change");
+sout("And one more change");+++
